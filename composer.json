@@ -1,0 +1,8 @@
+{
+  "name": "cvy/util-design-patterns",
+  "autoload": {
+    "psr-4": {
+      "Cvy\\DesignPatterns\\": "src/"
+    }
+  }
+}
